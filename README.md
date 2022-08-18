@@ -1,4 +1,4 @@
-Codebase for the french blog post [MongoDB Testcontainers Setup for @DataMongoTest](https://aircodr.com/test-dintegration-avec-spring-boot-mongodb-et-testcontainer/)
+Codebase for the french blog post [Integration Test with Spring Boot, MongoDB and Testcontainers](https://aircodr.com/test-dintegration-avec-spring-boot-mongodb-et-testcontainer/)
 
 To run this project, you must:
 - Clone this Git repository
